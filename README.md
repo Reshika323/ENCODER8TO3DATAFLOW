@@ -36,13 +36,14 @@ Figure 02  Encoder 8 * 3
 
 **Procedure**
 
-1.Type the program in Quartus software.
-2.Compile and run the program.
-3.Generate the RTL schematic and save the logic diagram.
-4.Create nodes for inputs and outputs to generate the timing diagram.
-5.For different input combinations generate the timing diagram.
+1.Type the program in Quartus software.               
+2.Compile and run the program.                   
+3.Generate the RTL schematic and save the logic diagram.                             
+4.Create nodes for inputs and outputs to generate the timing diagram.                             
+5.For different input combinations generate the timing diagram.                           
 
 **PROGRAM**
+
 ![image](https://github.com/user-attachments/assets/f940e4da-6a01-439e-9467-017551878569)
 
 
